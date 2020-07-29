@@ -11,9 +11,9 @@ Comment: and that would be enough chitchat: I don't like to speak about meaningl
 # You would like to show me something ?
 Yeah sure (sigh) ...
 
-Comment: most people ask me to fix stuff, I am kind of acostumed and will patiently listen. I am merciless towards those would could have easily solved their issues by themselves though. Also don't appreciate if they constantly break my workflow.
+Comment: most people ask me to fix stuff, I am kind of acostumed and will patiently listen, and probably help. I am merciless towards those would could have easily solved their issues by themselves though. Also don't appreciate if they constantly break my workflow.
 
-#  What I have been doing these time ?
+#  What I have been doing these times ?
 Well I have been working about this side project of mine. It's about this and that, does it sound interesting to you? 
 
 Comment: I gladly appreciate the attention, however I will make sure not to overwelm people with information or enthusiasm because they asked such a question most likely to be polite.
