@@ -32,10 +32,10 @@ Comment: apart from a few non-time consuming hobbies (sailing, RC planes, kicker
 
 |  Name | Language   | Line count   | Description  |  Status |
 |---|---|---|---|---|
-| [shogai](github.com/michaelb/shogai)  |  Rust | 1600  | A shogi helper to create logic/engines  |  Complete apart for a few features |
-|  [shogui](github.com/michaelb/shogui) |  Rust | 550  | A GUI to play shogi against a simple bot (works with shogai) |  more limited than I would like |
-|  [auto-ytdl](github.com/michaelb/auto-ytdl)  | Python  | 550  |  A youtube-dl wrapper focused on music and easy management/updating of the local library  |  Feature-complete, stable and released |
-|[conky-minimalism-tweaked](github.com/michaelb/Conky-Minimalism-tweaked) |  Lua | 30's modified (forked) | A customized conky (widget) to fit my needs| Complete |
+| [shogai](https://github.com/michaelb/shogai)  |  Rust | 1600  | A shogi helper to create logic/engines  |  Complete apart for a few features |
+|  [shogui](https://github.com/michaelb/shogui) |  Rust | 550  | A GUI to play shogi against a simple bot (works with shogai) |  more limited than I would like |
+|  [auto-ytdl](https://github.com/michaelb/auto-ytdl)  | Python  | 550  |  A youtube-dl wrapper focused on music and easy management/updating of the local library  |  Feature-complete, stable and released |
+|[conky-minimalism-tweaked](https://github.com/michaelb/Conky-Minimalism-tweaked) |  Lua | 30's modified (forked) | A customized conky (widget) to fit my needs| Complete |
 
 # What I look forward to do once I have some time
 Some projects in other languages (C/C++, Java, and more) to keep my skills up-to-date.
