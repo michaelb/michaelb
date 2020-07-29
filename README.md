@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Hi, nice to meet you, but be warned  as I am a very limited edition. Handle me with care.
+Hi, nice to meet you, but be warned  as I am a very limited edition. Nice performance but needs care.
 
 # How I am today ?
 
