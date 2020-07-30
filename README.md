@@ -45,6 +45,7 @@ Project ideas:
  * Auto-correct for shell commands
  * Vim plugin to run snips of code
  * ML project to interpret code, preferably language-independent (need to research LSPs)
+ * Create my own neural network structure
  
  
 
