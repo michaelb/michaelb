@@ -1,13 +1,11 @@
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy)
 
-<a href="https://github.com/michaelb">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&layout=compact&theme=buefy">
- </a>
- <a href="https://github.com/michaelb/shogai">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy">
+ 
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=buefy">
- </a>
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy"> <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy">
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy">
 
 # About me
 
