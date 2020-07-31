@@ -1,6 +1,6 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy") ![](https://github-readme-stats.vercel.app/api/pin/?username=michaelb&theme=buefy")
 
 # About me
 
