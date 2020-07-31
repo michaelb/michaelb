@@ -1,4 +1,32 @@
-![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy" />
+
+# About me
+
+# Technologies and tools
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white)
+![](https://img.shields.io/badge/Language-Shell-informational?style=flat&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Language-PowerShell-informational?style=flat&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=codio&logoColor=white)
+![](https://img.shields.io/badge/Language-Scilab-informational?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Language-R-informational?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&logoColor=white&color=41cd52)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479a1)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=fcc624)
+![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux&logoColor=white&color=00b8fc)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=f05032)
+![](https://img.shields.io/badge/Platform-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Platfrom-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=fca121)
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=57a143)
+![](https://img.shields.io/badge/DE-Plasma-informational?style=flat&logo=kde&logoColor=white&color=70cbf4)
+![](https://img.shields.io/badge/Design-GIMP-informational?style=flat&logo=gimp&logoColor=white&color=fcc624)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2493ed)
+![](https://img.shields.io/badge/Tool-VirtualBox-informational?style=flat&&logoColor=white&color=1cc624)
 
 
 # What I look forward to do once I have some time
