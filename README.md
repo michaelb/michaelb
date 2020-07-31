@@ -1,3 +1,4 @@
+# Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy)
 
 <a href="https://github.com/michaelb">
@@ -6,7 +7,7 @@
  <a href="https://github.com/michaelb/shogai">
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=buefy">
  </a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy"> <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy">
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy"> <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy">
 
 # About me
 
@@ -27,7 +28,7 @@
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux&logoColor=white&color=00b8fc)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/Platform-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Platfrom-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=fca121)
+![](https://img.shields.io/badge/Platform-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=fca121)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=57a143)
 ![](https://img.shields.io/badge/DE-Plasma-informational?style=flat&logo=kde&logoColor=white&color=70cbf4)
 ![](https://img.shields.io/badge/Design-GIMP-informational?style=flat&logo=gimp&logoColor=white&color=fcc624)
