@@ -13,7 +13,7 @@
 I am a French CS & math student looking around for new technology to learn about !
 The type of guy who rather listen and ends up knowing a little bit of everything. Love to tinker with stuff, be it software or hardware.
 
-You can contact me on [Facebook](https://www.facebook.com/profile.php?id=100018309552750), via <a href"mailto:michael.bleuez2@gmail.com"> email</a> or on  [LinkedIn](https://www.linkedin.com/in/michael-bleuez-b2b737190/).
+You can contact me on [Facebook](https://www.facebook.com/profile.php?id=100018309552750), via <a href="mailto:michael.bleuez2@gmail.com"> email</a> or on  [LinkedIn](https://www.linkedin.com/in/michael-bleuez-b2b737190/).
 
 # Technologies and tools
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white)
