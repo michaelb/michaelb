@@ -1,5 +1,7 @@
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy&count_private=true) <img src="https://github.com/michaelb/forest-fire-fire-the-evening-wallpaper-preview.jpg" align="rigth" width="275px" />
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy&count_private=true)
+<img src="https://raw.github.com/michaelb/michaelb/master/forest-fire-fire-the-evening-wallpaper-preview.jpg" align="rigth" width="275px" >
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy">
