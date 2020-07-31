@@ -1,5 +1,5 @@
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy)
+![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy) <img src="forest-fire-fire-the-evening-wallpaper-preview.jpg" align="rigth" width="275px" />
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy">
@@ -8,6 +8,7 @@
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy">
 
 # About me
+I am a French CS & math student looking around for new technology to learn about!
 
 # Technologies and tools
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white)
