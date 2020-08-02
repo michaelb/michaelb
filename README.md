@@ -25,7 +25,6 @@ You can contact me on [Facebook](https://www.facebook.com/profile.php?id=1000183
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=codio&logoColor=white)
 ![](https://img.shields.io/badge/Language-Scilab-informational?style=flat&logoColor=white)
-![](https://img.shields.io/badge/Language-R-informational?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&logoColor=white&color=41cd52)
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479a1)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=fcc624)
