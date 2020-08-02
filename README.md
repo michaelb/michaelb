@@ -40,7 +40,7 @@ The type of guy who rather listen and ends up knowing a little bit of everything
 ![](https://img.shields.io/badge/Tool-VirtualBox-informational?style=flat&&logoColor=white&color=1cc624)
 
 
-#  👯  What I look forward to do once I have some time
+#  What I look forward to do once I have some time
 Some projects in other languages (C/C++, Java, and more) to keep my skills up-to-date.
 
 Project ideas:
