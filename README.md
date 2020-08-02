@@ -1,10 +1,10 @@
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)
 <img src="https://raw.github.com/michaelb/michaelb/master/forest-fire-fire-the-evening-wallpaper-preview.jpg" align="rigth" width="275px" >
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy&icon_colors=2453fd">
  <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=buefy">
  </a><a href="https://github.com/michaelb/shogui"> <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy">
  </a><a href="https://github.com/michaelb/auto-ytdl"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy"></a>
@@ -14,7 +14,7 @@
 I am a French CS & math student looking around for new technology to learn about !
 The type of guy who rather listen and ends up knowing a little bit of everything. Love to tinker with stuff, be it software or hardware.
 
-You can contact me on [Facebook](https://www.facebook.com/profile.php?id=100018309552750), via <a href="mailto:michael.bleuez2@gmail.com"> email</a> or on  [LinkedIn](https://www.linkedin.com/in/michael-bleuez-b2b737190/).
+📫 You can contact me on [Facebook](https://www.facebook.com/profile.php?id=100018309552750), via <a href="mailto:michael.bleuez2@gmail.com"> email</a> or on  [LinkedIn](https://www.linkedin.com/in/michael-bleuez-b2b737190/).
 
 # Technologies and tools
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white)
@@ -40,7 +40,7 @@ You can contact me on [Facebook](https://www.facebook.com/profile.php?id=1000183
 ![](https://img.shields.io/badge/Tool-VirtualBox-informational?style=flat&&logoColor=white&color=1cc624)
 
 
-# What I look forward to do once I have some time
+#  👯  What I look forward to do once I have some time
 Some projects in other languages (C/C++, Java, and more) to keep my skills up-to-date.
 
 Project ideas:
