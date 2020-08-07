@@ -50,6 +50,7 @@ Project ideas:
  * ML project to interpret code, preferably language-independent (need to research LSPs)
  * Create my own neural network structure
  * Planning optimization with travel time lookup and availability
+ * Terminal output coloring
  
  
 
