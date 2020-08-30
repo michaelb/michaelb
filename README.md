@@ -17,6 +17,9 @@
 # Contact & about me 
  I am a French CS & math student looking around for new technology to learn about !
 The type of guy who likes to listen and ends up knowing a little bit of everything. I love to tinker with stuff, be it software or hardware, and the challenges that come with designing stuff from ground zero & foresee future development. 
+
+Hobby-wise, I am into tech, RC planes, sailing and music.
+
 What else is left to say? You'll know when we meet
 
 📫 You can contact me on [Facebook](https://www.facebook.com/profile.php?id=100018309552750), via <a href="mailto:michael.bleuez2@gmail.com"> email</a> or on  [LinkedIn](https://www.linkedin.com/in/michael-bleuez-b2b737190/).
