@@ -4,7 +4,7 @@
 <img src="https://raw.github.com/michaelb/michaelb/master/forest-fire-fire-the-evening-wallpaper-preview.jpg" align="rigth" width="275px" >
 
 
- <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=buefy"></a><a href="https://github.com/michaelb/shogui"> <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy"></a><a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy"></a></a><a href="https://github.com/michaelb/sniprun"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=buefy"></a>
+ <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=buefy"></a><a href="https://github.com/michaelb/shogui"> <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy"></a><a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy"></a></a><a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=buefy"></a>
  
  
  
