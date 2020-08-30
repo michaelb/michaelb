@@ -11,10 +11,7 @@
 </a><a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=buefy"></a>
  </a><a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy"></a>
  
-# About me & contact
-I am a French CS & math student looking around for new technology to learn about !
-The type of guy who rather listen and ends up knowing a little bit of everything. Love to tinker with stuff, be it software or hardware.
-
+# Contact
 📫 You can contact me on [Facebook](https://www.facebook.com/profile.php?id=100018309552750), via <a href="mailto:michael.bleuez2@gmail.com"> email</a> or on  [LinkedIn](https://www.linkedin.com/in/michael-bleuez-b2b737190/).
 
 # Technologies and tools
@@ -53,7 +50,10 @@ Project ideas:
  * Planning optimization with travel time lookup and availability
  * Terminal output coloring
  
- 
+ # About me 
+ I am a French CS & math student looking around for new technology to learn about !
+The type of guy who rather listen and ends up knowing a little bit of everything. Love to tinker with stuff, be it software or hardware.
+
 
 <!--
 **michaelb/michaelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
