@@ -4,12 +4,12 @@
 <img src="https://raw.github.com/michaelb/michaelb/master/forest-fire-fire-the-evening-wallpaper-preview.jpg" align="rigth" width="275px" >
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy&icon_colors=2453fd">
  <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=buefy">
  </a><a href="https://github.com/michaelb/shogui"> <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=buefy">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=buefy&icon_colors=2453fd">
+</a><a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=buefy"></a>
  </a><a href="https://github.com/michaelb/auto-ytdl"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=buefy"></a>
-
-
 # About me & contact
 I am a French CS & math student looking around for new technology to learn about !
 The type of guy who rather listen and ends up knowing a little bit of everything. Love to tinker with stuff, be it software or hardware.
