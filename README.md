@@ -62,12 +62,11 @@ Some projects in other languages (C/C++, Java, and more) to keep my skills up-to
 
 Project ideas:
  * Collaborate on KDE Connect / bluetooth connection
- * Auto-correct for shell commands
- * Vim plugin to run snips of code
  * ML project to interpret code, preferably language-independent (need to research LSPs)
- * Create my own neural network structure
+ * Create some experimental neural network lib
  * Planning optimization with travel time lookup and availability
  * Terminal output coloring
+ * Create my own, good, music player
  
 
 
