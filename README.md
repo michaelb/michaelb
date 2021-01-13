@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 <img src="https://raw.github.com/michaelb/michaelb/master/forest-fire-fire-the-evening-wallpaper-preview.jpg" align="rigth" width="275px" >
 
 
