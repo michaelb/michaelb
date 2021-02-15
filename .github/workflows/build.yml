@@ -31,6 +31,7 @@ jobs:
       run: |-
         echo "token:"
         echo $MICHAELB_TOKEN
+        export MICHAELB_TOKEN=$MICHAELB_TOKEN
         python build_readme.py
         cat README.md
     - name: Commit and push if README changed
