@@ -1,8 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-<img src="https://raw.github.com/michaelb/michaelb/master/forest-fire-fire-the-evening-wallpaper-preview.jpg" align="rigth" width="275px" >
+<p align="center">
+<a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=dark&count_private=true&include_all_commits=true"></a>
+</p>
+
 
 
  <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=dark"></a>
@@ -27,7 +29,8 @@ What else is left to say? You'll know when we meet
 
  
  
- # Recent releases (auto-updating daily)
+ # Recent releases 
+ (auto-updating daily)
 <!-- recent_releases starts -->
 * [sniprun more fixs, more tests](https://github.com/michaelb/sniprun/releases/tag/v0.4.6) - 2021-02-02
 * [auto-ytdl various fixes : 1.2.5](https://github.com/michaelb/auto-ytdl/releases/tag/v1.2.5) - 2020-11-02
@@ -40,39 +43,60 @@ What else is left to say? You'll know when we meet
  
 
 # Technologies and tools
-![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white)
-![](https://img.shields.io/badge/Language-Shell-informational?style=flat&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Language-PowerShell-informational?style=flat&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logoColor=white)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=codio&logoColor=white)
-![](https://img.shields.io/badge/Language-Scilab-informational?style=flat&logoColor=white)
-![](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&logoColor=white&color=41cd52)
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479a1)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=fcc624)
-![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux&logoColor=white&color=00b8fc)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=f05032)
-![](https://img.shields.io/badge/Platform-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Platform-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=fca121)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=57a143)
-![](https://img.shields.io/badge/DE-Plasma-informational?style=flat&logo=kde&logoColor=white&color=70cbf4)
-![](https://img.shields.io/badge/Design-GIMP-informational?style=flat&logo=gimp&logoColor=white&color=fcc624)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2493ed)
-![](https://img.shields.io/badge/Tool-VirtualBox-informational?style=flat&&logoColor=white&color=1cc624)
+Though not exhaustive, they represent the kind of tech I'm confortable working with.
 
+<p align="center">
+
+
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://archlinux.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> </a>
+<a href="https://arduino.cc" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://dev.to/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev.to" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://gitlab.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
+<a href="https://jupyter.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://neovim.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/> </a>
+<a href="https://www.vim.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a>
+<a href="https://travis-ci.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis-ci" width="40" height="40"/> </a>
+<a href="https://www.virtualbox.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a>
+<a href="https://www.gimp.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a>
+
+
+
+
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.julialang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="julia" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
+ <a href="https://www.lua.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a>
+ <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="40" height="40"/> </a>
+
+</p>
 
 #  What I look forward to do once I have some time
+
+Spend more time with friends and family. Go to concerts, go skiing, hiking, read, improve yet again my neovim configuration. Write blog posts, explore Github. Automate my workflow. Think about life. Play some new songs on the piano. Accumulate even more useless surface knowledge from reddit. Improve my touch-typing.
+
 Some projects in other languages (C/C++, Java, and more) to keep my skills up-to-date.
 
 Project ideas:
  * Collaborate on KDE Connect / bluetooth connection
- * ML project to interpret code, preferably language-independent (need to research LSPs)
  * Create some experimental neural network lib
  * Planning optimization with travel time lookup and availability
- * Terminal output coloring
  * Create my own, good, music player
+ * Contribute to Neovim
+
+
  
 
 
