@@ -12,9 +12,6 @@
  <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=vue-dark"></a>
  <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=vue-dark"></a>
 
-<p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=vue-dark&icon_colors=2453fd&langs_count=10&layout=compact">
-</p>
  
 
 # Contact & about me 
@@ -67,21 +64,26 @@ Though not exhaustive, they represent the kind of tech I'm confortable working w
 <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a>
 <a href="https://www.gimp.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a>
 
+</p>
 
 
 
-
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.julialang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="julia" width="40" height="40"/> </a>
+<p align="center">
+<a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
- <a href="https://www.lua.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a>
- <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="40" height="40"/> </a>
+<a href="https://www.lua.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.julialang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="julia" width="40" height="40"/> </a>
 
 </p>
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=vue-dark&icon_colors=2453fd&langs_count=10&layout=compact">
+</p>
+
 
 #  What I look forward to do once I have some time
 
