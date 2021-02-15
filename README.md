@@ -16,7 +16,7 @@
  
 
 # Contact & about me 
- I am a French CS & math student looking around for new technology to learn about !
+ I am a French CS & mathematics student looking around for new technology to learn about !
 The type of guy who likes to listen and ends up knowing a little bit of everything. I love to tinker with stuff, be it software or hardware, and the challenges that come with designing stuff from ground zero & foresee future development. 
 
 Hobby-wise, I am into tech, RC planes, sailing and music.
