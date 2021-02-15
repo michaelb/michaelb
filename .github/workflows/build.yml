@@ -29,6 +29,8 @@ jobs:
       env:
         MICHAELB_TOKEN: ${{ secrets.MICHAELB_TOKEN }}
       run: |-
+        echo "token:"
+        echo $MICHAELB_TOKEN
         python build_readme.py
         cat README.md
     - name: Commit and push if README changed
