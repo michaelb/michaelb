@@ -27,7 +27,24 @@ What else is left to say? You'll know when we meet
 
  
  
- 
+ # Recent releases
+<!-- recent_releases starts -->
+[sqlite-utils 3.5](https://github.com/simonw/sqlite-utils/releases/tag/3.5) - 2021-02-14
+
+[evernote-to-sqlite 0.3.1](https://github.com/dogsheep/evernote-to-sqlite/releases/tag/0.3.1) - 2021-02-11
+
+[datasette-tiles 0.6.1](https://github.com/simonw/datasette-tiles/releases/tag/0.6.1) - 2021-02-11
+
+[datasette-jellyfish 1.0.1](https://github.com/simonw/datasette-jellyfish/releases/tag/1.0.1) - 2021-02-06
+
+[download-tiles 0.4](https://github.com/simonw/download-tiles/releases/tag/0.4) - 2021-02-03
+
+[datasette-basemap 0.2](https://github.com/simonw/datasette-basemap/releases/tag/0.2) - 2021-02-02
+
+[datasette 0.54.1](https://github.com/simonw/datasette/releases/tag/0.54.1) - 2021-02-02
+
+[datasette-cluster-map 0.17.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.17.1) - 2021-02-01
+<!-- recent_releases ends -->
  
  
  
