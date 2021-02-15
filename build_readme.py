@@ -62,7 +62,7 @@ def fetch_releases(oauth_token):
     while has_next_page:
         data = client.execute(
             query=make_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+            headers={"Authorization": "token {}".format(oauth_token)},
         )
         print()
         print(json.dumps(data, indent=4))
