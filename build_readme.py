@@ -12,9 +12,7 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
-TOKEN = os.environ.get("SMICHAELB_TOKEN", "")
-print("token :", TOKEN)
-os.system("echo $SMICHAELB_TOKEN")
+TOKEN = os.environ['MICHAELB_TOKEN']#, "no token found")
 
 def replace_chunk(content, marker, chunk):
     r = re.compile(
@@ -103,5 +101,4 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
-    rewritten = replace_chunk(rewritten, "tils", tils_md)
     readme.open("w").write(rewritten)
