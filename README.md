@@ -2,19 +2,19 @@
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-<a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=dark&count_private=true&include_all_commits=true"></a>
+<a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true"></a>
 </p>
 
 
 
- <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=dark"></a>
- <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=dark"></a>
- <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=dark"></a>
- <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=dark"></a>
- 
- 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=dark&icon_colors=2453fd">
+ <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=vue-dark"></a>
+ <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=vue-dark"></a>
+ <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=vue-dark"></a>
+ <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=vue-dark"></a>
 
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=vue-dark&icon_colors=2453fd&langs_count=10&layout=compact">
+</p>
  
 
 # Contact & about me 
@@ -25,7 +25,7 @@ Hobby-wise, I am into tech, RC planes, sailing and music.
 
 What else is left to say? You'll know when we meet
 
-📫 You can contact me on [Facebook](https://www.facebook.com/profile.php?id=100018309552750), via <a href="mailto:michael.bleuez2@gmail.com"> email</a> or on  [LinkedIn](https://www.linkedin.com/in/michael-bleuez-b2b737190/).
+📫 You can contact me on [Facebook](https://www.facebook.com/profile.php?id=100018309552750), via <a href="mailto:michael.bleuez1@gmail.com"> email</a> or on  [LinkedIn](https://www.linkedin.com/in/michael-bleuez-b2b737190/).
 
  
  
