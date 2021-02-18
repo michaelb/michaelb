@@ -12,7 +12,7 @@
  <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=vue-dark"></a>
  <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=vue-dark"></a>
 
- 
+ <script src="https://embed.github.com/view/3d/michaelb/michaelb/master/michaelb-2020.stl"></script>
 
 # Contact & about me 
  I am a French CS & mathematics student looking around for new technology to learn about !
