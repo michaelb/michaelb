@@ -27,9 +27,9 @@ What else is left to say? You'll know when we meet
  # Recent releases 
  (auto-updating daily)
 <!-- recent_releases starts -->
+* [sniprun v0.4.7 Fix on a seldom but annoying bug, compilation error messages (C,Rust)](https://github.com/michaelb/sniprun/releases/tag/v0.4.7) - 2021-03-01
 * [vim-tips Fix race condition, Python no longer required](https://github.com/michaelb/vim-tips/releases/tag/v0.3) - 2021-02-23
 * [auto-ytdl Small behavioral adjustment](https://github.com/michaelb/auto-ytdl/releases/tag/v1.3.0) - 2021-02-19
-* [sniprun more fixs, more tests](https://github.com/michaelb/sniprun/releases/tag/v0.4.6) - 2021-02-02
 * [shogui move to full shogi UI](https://github.com/michaelb/shogui/releases/tag/0.4.0) - 2020-07-11
 <!-- recent_releases ends -->
  
