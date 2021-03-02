@@ -41,16 +41,6 @@ jobs:
         git diff --quiet || (git add README.md && git commit -m "Updated README")
         git push
         
-  build2:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env: # default use ${{ secrets.GITHUB_TOKEN }}, you should replace with your personal access token
-          GITHUB_TOKEN: ${{ secrets.MICHAELB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+  
         
 
