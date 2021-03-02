@@ -31,14 +31,10 @@ What else is left to say? You'll know when we meet
 <!-- recent_releases ends -->
  
  
- <body>
-<p align="center">
  <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=vue-dark"></a>
  <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=vue-dark"></a>
  <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=vue-dark"></a>
  <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=vue-dark"></a>
-</p>
-</body>
 
  
  
