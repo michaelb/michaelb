@@ -85,7 +85,6 @@ Though not exhaustive, they represent the kind of tech I'm confortable working w
 </p>
 
 
-![](https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 
 #  What I look forward to do once I have some time
 
