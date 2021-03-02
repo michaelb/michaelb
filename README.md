@@ -82,7 +82,7 @@ Though not exhaustive, they represent the kind of tech I'm confortable working w
 
 </p>
 <p align="center"> 
-<img align="center" src="https://github-readme-stats-bv1ire5xd-michaelb1.vercel.app/api/top-langs/?username=michaelb&theme=vue-dark&icon_colors=2453fd&langs_count=15&layout=compact&exclude_repo=animation,tabnine-vim,tabnine-backup,opencl-md5-cracking">
+<img align="center" src="https://github-readme-stats-kx16axizp-michaelb1.vercel.app/api/top-langs/?username=michaelb&theme=vue-dark&icon_colors=2453fd&langs_count=15&layout=compact&exclude_repo=animation,tabnine-vim,tabnine-backup">
 </p>
 
 
