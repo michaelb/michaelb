@@ -1,16 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <p align="center">
-<a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true"></a>
+<a href="https://github.com/"><img align="center" src="https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/3-stats.svg"></a>
+</p><p align="center">
+<a href="https://github.com/"><img align="center" src="https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/0-profile-details.svg"></a>
 </p>
 
-
-
- <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=vue-dark"></a>
- <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=vue-dark"></a>
- <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=vue-dark"></a>
- <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=vue-dark"></a>
 
 # Contact & about me 
  I am a French CS & mathematics student looking around for new technology to learn about !
@@ -34,6 +29,12 @@ What else is left to say? You'll know when we meet
 <!-- recent_releases ends -->
  
  
+ <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=vue-dark"></a>
+ <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=vue-dark"></a>
+ <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=vue-dark"></a>
+ <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=vue-dark"></a>
+
+
  
  
  
@@ -83,6 +84,8 @@ Though not exhaustive, they represent the kind of tech I'm confortable working w
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelb&theme=vue-dark&icon_colors=2453fd&langs_count=10&layout=compact">
 </p>
 
+
+![](https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 
 #  What I look forward to do once I have some time
 
