@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="right">
-<a href="https://github.com/"><img align="right" src="https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/3-stats.svg"></a>
+<p align="center">
+<a href="https://github.com/"><img align="center" src="https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/3-stats.svg"></a>
 </p>
-<p align="left">
-<a href="https://github.com/"><img align="left" src="https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/0-profile-details.svg"></a>
+<p align="center">
+<a href="https://github.com/"><img align="center" src="https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/0-profile-details.svg"></a>
 </p>
 
 
@@ -31,11 +31,14 @@ What else is left to say? You'll know when we meet
 <!-- recent_releases ends -->
  
  
+ <body>
+<p align="center">
  <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=vue-dark"></a>
  <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=vue-dark"></a>
  <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=vue-dark"></a>
  <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=vue-dark"></a>
-
+</p>
+</body>
 
  
  
