@@ -44,8 +44,6 @@ What else is left to say? You'll know when we meet
 Though not exhaustive, they represent the kind of tech I'm confortable working with.
 
 <p align="center">
-
-
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -64,7 +62,6 @@ Though not exhaustive, they represent the kind of tech I'm confortable working w
 <a href="https://travis-ci.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis-ci" width="40" height="40"/> </a>
 <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a>
 <a href="https://www.gimp.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/> </a>
-
 </p>
 
 
@@ -79,8 +76,8 @@ Though not exhaustive, they represent the kind of tech I'm confortable working w
 <a href="https://www.lua.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.julialang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="julia" width="40" height="40"/> </a>
-
 </p>
+
 <p align="center"> 
 <img align="center" src="https://github-readme-stats-kx16axizp-michaelb1.vercel.app/api/top-langs/?username=michaelb&theme=vue-dark&icon_colors=2453fd&langs_count=15&layout=compact&exclude_repo=animation,tabnine-vim,tabnine-backup&hide=llvm,vimscript">
 </p>
