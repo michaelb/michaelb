@@ -23,7 +23,7 @@ What else is left to say? You'll know when we meet
  # Recent releases 
  (auto-updating daily)
 <!-- recent_releases starts -->
-* [sniprun C / C++ support imports](https://github.com/michaelb/sniprun/releases/tag/v0.4.8) - 2021-03-14
+* [sniprun Inline messages (for compatibility)](https://github.com/michaelb/sniprun/releases/tag/v0.4.9) - 2021-03-15
 * [github-profile-summary-cards ](https://github.com/michaelb/github-profile-summary-cards/releases/tag/v0.3.4) - 2021-03-02
 * [vim-tips Fix race condition, Python no longer required](https://github.com/michaelb/vim-tips/releases/tag/v0.3) - 2021-02-23
 * [auto-ytdl Small behavioral adjustment](https://github.com/michaelb/auto-ytdl/releases/tag/v1.3.0) - 2021-02-19
