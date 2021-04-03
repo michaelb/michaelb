@@ -23,7 +23,7 @@ What else is left to say? You'll know when we meet
  # Recent releases 
  (auto-updating daily)
 <!-- recent_releases starts -->
-* [sniprun Sniprun becomes a lua plugin (fully backward-compatible)](https://github.com/michaelb/sniprun/releases/tag/v0.5.0) - 2021-03-29
+* [sniprun Markdown embedded code support](https://github.com/michaelb/sniprun/releases/tag/v0.5.1) - 2021-04-02
 * [github-profile-summary-cards ](https://github.com/michaelb/github-profile-summary-cards/releases/tag/v0.3.4) - 2021-03-02
 * [vim-tips Fix race condition, Python no longer required](https://github.com/michaelb/vim-tips/releases/tag/v0.3) - 2021-02-23
 * [auto-ytdl Small behavioral adjustment](https://github.com/michaelb/auto-ytdl/releases/tag/v1.3.0) - 2021-02-19
