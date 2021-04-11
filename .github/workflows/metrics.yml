@@ -18,7 +18,7 @@ jobs:
           # Options
           user: michaelb
           template: classic
-          base: header, activity, repositories
+          base: header, repositories, activity
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
           plugin_lines: yes
