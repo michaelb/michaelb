@@ -3,6 +3,7 @@ on:
   # Schedule updates
   schedule: [{cron: "0 0 * * *"}]
   push: {branches: "master"}
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
