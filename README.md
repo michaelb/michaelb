@@ -7,6 +7,7 @@
 <a href="https://github.com/"><img align="center" src="https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/0-profile-details.svg"></a>
 </p>
 
+![Metrics](https://raw.githubusercontent.com/michaelb/michaelb/master/github-metrics.svg)
 
 # Contact & about me 
  I am a French CS & mathematics student looking around for new technology to learn about !
