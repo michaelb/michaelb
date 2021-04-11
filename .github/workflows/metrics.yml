@@ -17,10 +17,9 @@ jobs:
           # Options
           user: michaelb
           template: classic
-          base: header
+          base: header, community, repositories,
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
-          plugin_traffic: yes
           plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_secrets: yes
