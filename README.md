@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 # Nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<p align="center">
+<a href="https://github.com/"><img align="center" src="https://raw.githubusercontent.com/michaelb/michaelb/master/profile-summary-card-output/nord_dark/3-stats.svg"></a>
+</p>
 ![Metrics](https://raw.githubusercontent.com/michaelb/michaelb/master/github-metrics.svg)
 
 # Contact & about me 
@@ -94,6 +96,9 @@ Project ideas:
 
 
  
+# Some funny stats
+
+![Metrics](https://raw.githubusercontent.com/michaelb/michaelb/master/github-metrics.svg)
 
 
 
