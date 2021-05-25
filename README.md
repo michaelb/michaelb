@@ -73,11 +73,11 @@ Though not exhaustive, they represent the kind of tech I'm confortable working w
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.julialang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="julia" width="40" height="40"/> </a>
 </p>
-
+<!-----
 <p align="center"> 
 <img align="center" src="https://github-readme-stats-kx16axizp-michaelb1.vercel.app/api/top-langs/?username=michaelb&theme=vue-dark&icon_colors=2453fd&langs_count=15&layout=compact&exclude_repo=animation,tabnine-vim,tabnine-backup&hide=llvm,vimscript">
 </p>
-
+----->
 
 
 #  What I look forward to do once I have some time
