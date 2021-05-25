@@ -88,6 +88,7 @@ Some projects in other languages (C/C++, Java, and more) to keep my skills up-to
 
 Project ideas:
  * Collaborate on KDE Connect / bluetooth connection
+ * Do some things on the Neovim side
  * Create some experimental neural network lib
  * Planning optimization with travel time lookup and availability
  * Create my own, good, music player
