@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/michaelb/michaelb/master/assets/imgs/theme/header.svg" alt="header: michaelb"/>
+  <img src="assets/imgs/theme/header.png" alt="header: michaelb"/>
 
 
 <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="80" height="80"/> </a>
@@ -17,13 +17,8 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/michaelb/michaelb/master/assets/imgs/theme/separator.svg" alt="separator">
+  <img src="assets/imgs/theme/separator.svg" alt="separator">
 </div>
-
-
-
-
-
 
 
 </div>
@@ -32,8 +27,22 @@
     <img src="https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&count_private=true&include_all_commits=true&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"/>
   </a>
 </div>
+
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/michaelb/michaelb/master/assets/imgs/theme/footer.svg" alt="footer">
+  <img src="assets/imgs/theme/separator.svg" alt="separator">
+</div>
+
+
+ 
+ <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+ <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+ <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+ <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+
+
+<div align="center">
+  <img src="assets/imgs/theme/footer.svg" alt="footer">
 </div>
 
 # Contact & about me 
@@ -55,14 +64,7 @@ The type of guy who likes to listen and ends up knowing a little bit of everythi
 * [auto-ytdl Small behavioral adjustment](https://github.com/michaelb/auto-ytdl/releases/tag/v1.3.0) - 2021-02-19
 * [shogui move to full shogi UI](https://github.com/michaelb/shogui/releases/tag/0.4.0) - 2020-07-11
 <!-- recent_releases ends -->
- 
- 
- <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&theme=vue-dark"></a>
- <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&theme=vue-dark"></a>
- <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&theme=vue-dark"></a>
- <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&theme=vue-dark"></a>
-
- 
+  
  
 <!-----
 <p align="center"> 
