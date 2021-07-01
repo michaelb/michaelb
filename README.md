@@ -28,22 +28,10 @@
   </a>
 </div>
 
-
-<div align="center">
-  <img src="assets/imgs/theme/separator.png" alt="separator">
-</div>
-
-
- 
- <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
- <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
- <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
- <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
-
-
 <div align="center">
   <img src="assets/imgs/theme/footer.png" alt="footer">
 </div>
+
 
 # Contact & about me 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
@@ -64,7 +52,13 @@ The type of guy who likes to listen and ends up knowing a little bit of everythi
 * [auto-ytdl Small behavioral adjustment](https://github.com/michaelb/auto-ytdl/releases/tag/v1.3.0) - 2021-02-19
 * [shogui move to full shogi UI](https://github.com/michaelb/shogui/releases/tag/0.4.0) - 2020-07-11
 <!-- recent_releases ends -->
-  
+ 
+ <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+ <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+ <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+ <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+
+
  
 <!-----
 <p align="center"> 
