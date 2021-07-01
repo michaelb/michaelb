@@ -17,7 +17,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
 <div align="center">
-  <img src="assets/imgs/theme/separator.svg" alt="separator">
+  <img src="assets/imgs/theme/separator.png" alt="separator">
 </div>
 
 
@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="assets/imgs/theme/separator.svg" alt="separator">
+  <img src="assets/imgs/theme/separator.png" alt="separator">
 </div>
 
 
@@ -42,7 +42,7 @@
 
 
 <div align="center">
-  <img src="assets/imgs/theme/footer.svg" alt="footer">
+  <img src="assets/imgs/theme/footer.png" alt="footer">
 </div>
 
 # Contact & about me 
