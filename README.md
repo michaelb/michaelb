@@ -46,11 +46,11 @@ The type of guy who likes to listen and ends up knowing a little bit of everythi
  # Recent releases 
  (auto-updating daily)
 <!-- recent_releases starts -->
-* [sniprun v1.1.1](https://github.com/michaelb/sniprun/releases/tag/v1.1.1) - 2021-12-19
+* [vim-tips Misc improvement & licences](https://github.com/michaelb/vim-tips/releases/tag/v0.4) - 2022-10-06
+* [sniprun v1.2.7](https://github.com/michaelb/sniprun/releases/tag/v1.2.7) - 2022-09-06
 * [libfprint-elan0c63-insecure probably insecure but working fingerprint driver](https://github.com/michaelb/libfprint-elan0c63-insecure/releases/tag/v1.92.1.r2insecure) - 2021-07-21
-* [github-profile-summary-cards ](https://github.com/michaelb/github-profile-summary-cards/releases/tag/v0.3.3) - 2021-03-02
-* [vim-tips Fix race condition, Python no longer required](https://github.com/michaelb/vim-tips/releases/tag/v0.3) - 2021-02-23
-* [auto-ytdl Binary distributed](https://github.com/michaelb/auto-ytdl/releases/tag/v1.1.2-bin) - 2020-08-03
+* [github-profile-summary-cards ](https://github.com/michaelb/github-profile-summary-cards/releases/tag/v0.3.4) - 2021-03-02
+* [auto-ytdl Small behavioral adjustment](https://github.com/michaelb/auto-ytdl/releases/tag/v1.3.0) - 2021-02-19
 <!-- recent_releases ends -->
  
  <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
