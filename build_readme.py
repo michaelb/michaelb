@@ -34,7 +34,7 @@ query {
       }
       nodes {
         name
-        releases(last:15) {
+        releases(last:100) {
           totalCount
           nodes {
             name
