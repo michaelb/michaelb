@@ -46,7 +46,7 @@ The type of guy who likes to listen and ends up knowing a little bit of everythi
  # Recent releases 
  (auto-updating daily)
 <!-- recent_releases starts -->
-* [sniprun v1.2.8](https://github.com/michaelb/sniprun/releases/tag/v1.2.8) - 2022-11-05
+* [sniprun v1.2.9](https://github.com/michaelb/sniprun/releases/tag/v1.2.9) - 2022-12-28
 * [vim-tips Misc improvement & licences](https://github.com/michaelb/vim-tips/releases/tag/v0.4) - 2022-10-06
 * [libfprint-elan0c63-insecure probably insecure but working fingerprint driver](https://github.com/michaelb/libfprint-elan0c63-insecure/releases/tag/v1.92.1.r2insecure) - 2021-07-21
 * [github-profile-summary-cards ](https://github.com/michaelb/github-profile-summary-cards/releases/tag/v0.3.4) - 2021-03-02
