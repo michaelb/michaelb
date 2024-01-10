@@ -16,6 +16,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: michaelb/github-profile-summary-cards@v0.3.4
         env:
-          GITHUB_TOKEN: ${{ secrets.CARDS }}
+          GITHUB_TOKEN: '${{ secrets.CARDS }}'
         with:
           USERNAME: ${{ github.repository_owner }}
