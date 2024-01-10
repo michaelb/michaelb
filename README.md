@@ -16,17 +16,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
-<div align="center">
-  <img src="assets/imgs/theme/separator.png" alt="separator">
-</div>
-
-
-</div>
-<div align="center">
-  <a href="https://github.com/michaelb">
-    <img src="https://github-readme-stats.vercel.app/api?username=michaelb&show_icons=true&count_private=true&include_all_commits=true&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="assets/imgs/theme/footer.png" alt="footer">
@@ -34,7 +23,6 @@
 
 
 # Contact & about me 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
  I am a French CS & mathematics student looking around for new technology to learn about !
 The type of guy who likes to listen and ends up knowing a little bit of everything. I love to tinker with stuff, be it software or hardware, and the challenges that come with designing stuff from ground zero & foresee future development. 
