@@ -20,6 +20,7 @@
 <div align="center">
   <img src="assets/imgs/theme/footer.png" alt="footer">
 </div>
+</div>
 
 
 # Contact & about me 
