@@ -10,8 +10,6 @@
   <a href="https://archlinux.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> </a>
 <a href="https://neovim.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://gitlab.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://www.virtualbox.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -42,10 +40,10 @@ The type of guy who likes to listen and ends up knowing a little bit of everythi
 * [auto-ytdl Small behavioral adjustment](https://github.com/michaelb/auto-ytdl/releases/tag/v1.3.0) - 2021-02-19
 <!-- recent_releases ends -->
  
- <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
- <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
  <a href="https://github.com/michaelb/auto-ytdl"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=auto-ytdl&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
  <a href="https://github.com/michaelb/sniprun"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=sniprun&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+ <a href="https://github.com/michaelb/shogai"><img align="rigth" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogai&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
+ <a href="https://github.com/michaelb/shogui"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=michaelb&repo=shogui&bg_color=272727&icon_color=e35a19&title_color=e35a19&text_color=01b4b8"></a>
 
 
  
@@ -65,10 +63,9 @@ Some projects in other languages (C/C++, Java, and more) to keep my skills up-to
 Project ideas:
  * Collaborate on KDE Connect / bluetooth connection
  * Do some things on the Neovim side
- * Create some experimental neural network lib
  * Planning optimization with travel time lookup and availability
- * Create my own, good, music player
- * Hack around a fingerprint reader driver
+ * Create my own, good, music player (WIP)
+ * Hack around a fingerprint reader driver (done)
 
  
 <!--
